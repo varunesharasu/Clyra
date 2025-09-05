@@ -95,5 +95,3 @@ The application uses CSS custom properties for easy theming. Modify the variable
 - **Backend**: Python, Flask
 - **AI**: OpenAI GPT-3.5-turbo
 - **Features**: Real-time updates, responsive design
-
-npm start 
