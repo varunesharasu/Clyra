@@ -75,8 +75,6 @@ A modern, professional AI chatbot application with a clean light theme, smooth a
 
 The application uses CSS custom properties for easy theming. Modify the variables in `globals.css` to customize colors, spacing, and animations.
 
-## 📱 Responsive Breakpoints
-
 
 ## ♿ Accessibility
 
