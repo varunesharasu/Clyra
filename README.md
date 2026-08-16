@@ -79,7 +79,6 @@ The application uses CSS custom properties for easy theming. Modify the variable
 
 - Desktop: 1024px+
 - Tablet: 768px - 1023px
-- Mobile: 320px - 767px
 
 ## ♿ Accessibility
 
