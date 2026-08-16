@@ -78,7 +78,6 @@ The application uses CSS custom properties for easy theming. Modify the variable
 ## 📱 Responsive Breakpoints
 
 - Desktop: 1024px+
-- Tablet: 768px - 1023px
 
 ## ♿ Accessibility
 
