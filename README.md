@@ -71,8 +71,6 @@ A modern, professional AI chatbot application with a clean light theme, smooth a
 - `GET /api/stats/<session_id>` - Get conversation statistics
 - `GET /api/health` - Health check
 
-## 🎨 Customization
-
 
 ## ♿ Accessibility
 
