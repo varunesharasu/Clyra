@@ -85,4 +85,4 @@ A modern, professional AI chatbot application with a clean light theme, smooth a
 - **Frontend**: React, Next.js, CSS3
 - **Backend**: Python, Flask
 - **AI**: OpenAI GPT-3.5-turbo
-- **Features**: Real-time updates, responsive design
+- **Features**: Real-time updates
